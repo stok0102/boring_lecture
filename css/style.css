@@ -1,0 +1,12 @@
+h2.intro {
+  text-align:center;
+}
+
+p.intro {
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+img.intro {
+  max-width: 60%;
+}
