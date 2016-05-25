@@ -1,12 +1,21 @@
-h2.intro {
-  text-align:center;
+.intro img {
+  max-width: 60%;
 }
 
-p.intro {
-  font-style: italic;
+.intro {
   font-family: sans-serif;
 }
 
-img.intro {
-  max-width: 60%;
+.intro h2 {
+  color: blue;
+}
+
+.intro p {
+  font-style: italic;
+  max-width: 50%;
+}
+
+.contact {
+  max-width: 75%;
+  font-family: monospace;
 }
