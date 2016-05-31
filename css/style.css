@@ -10,3 +10,8 @@ p.intro {
 img.intro {
   max-width: 60%;
 }
+
+.highlight {
+  font-weight: bold;
+  border: solid 1px grey;
+}
